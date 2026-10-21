@@ -1,3 +1,28 @@
+## Requirement and Use Case
+
+Requirement: The system shall allow users to check which equipment is available on a selected date.
+
+Actor: Authorised user.
+
+Goal: Check available equipment.
+
+Use case: View Equipment Availability.
+
+Question: Which users are allowed to check equipment availability?
+
+## Project Model
+
+Requirement: The system shall allow technicians to approve or reject booking requests.
+
+Actor: Equipment Technician.
+
+Goal: Review booking requests.
+
+Use cases: Approve Booking Request and Reject Booking Request.
+
+Question: Which technicians are allowed to approve or reject bookings?
+
+
 ## use  Cases
 1: view Equipment Availability.
 2:create Booking.
