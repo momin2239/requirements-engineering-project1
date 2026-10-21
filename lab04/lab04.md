@@ -24,8 +24,8 @@ Question: Which technicians are allowed to approve or reject bookings?
 
 
 ## use  Cases
-1: view Equipment Availability.
-2:create Booking.
+1: View Equipment Availability.
+2:Create Booking.
 3:Record Equipment Return.
 
 ## Questions
