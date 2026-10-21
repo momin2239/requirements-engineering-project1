@@ -15,7 +15,7 @@
 4: do stuff is not a clear use case name
 5:not every stakeholder needs to be an actor
 
-##Reflection
+## Reflection
 1:the diagram helped me understand how users use the system
 2:I need to know which users can book equipment and record the returns.
 
