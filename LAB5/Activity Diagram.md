@@ -27,6 +27,36 @@ What should happen when the requested equipment is unavailable?
 ## 6. Stakeholder Question
 What should happen when the requested equipment is unavailable?
 
+## Part 7 — Assessed Project Application
+
+### Process / Use Case
+Request Support Appointment
+
+### Activity 1
+Select a support service.
+
+### Activity 2
+Choose a preferred date.
+
+### Activity 3
+Submit an appointment request.
+
+### Possible Decision
+Is the selected time available?
+
+### Possible Guards
+- [available]
+- [not available]
+
+### One Unknown
+What happens if the selected time is unavailable?
+
+### Who Could Answer It?
+College support staff.
+
+### Question to Ask
+What should happen when the selected time is unavailable?
+
 ## 7. Modelling Decision
 I did not add a solution for unavailable equipment because this information is unknown.
 
