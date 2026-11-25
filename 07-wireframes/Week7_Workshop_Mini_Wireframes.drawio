@@ -1,0 +1,114 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Page-1" id="fiKTstJGlJ_3ItOBd3Ej">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lbl1" parent="1" style="text;html=1;fontStyle=1;align=left;verticalAlign=middle;fontColor=#000000;" value="Screen 1: Browse Workshops" vertex="1">
+          <mxGeometry height="30" width="360" x="40" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="s1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="460" width="360" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s1h" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontStyle=1;" value="College Workshop Registration" vertex="1">
+          <mxGeometry height="50" width="360" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s1t" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontSize=16;fontStyle=1;fontColor=#000000;" value="Browse Workshops" vertex="1">
+          <mxGeometry height="30" width="320" x="60" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="130" width="320" x="60" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c1t" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#000000;" value="W101 – Study Skills" vertex="1">
+          <mxGeometry height="30" width="280" x="80" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="c1b" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontStyle=1;" value="Register" vertex="1">
+          <mxGeometry height="40" width="120" x="80" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="130" width="320" x="60" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="c2t" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#000000;" value="W102 – Digital Skills" vertex="1">
+          <mxGeometry height="30" width="280" x="80" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="c2b" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontStyle=1;" value="Register" vertex="1">
+          <mxGeometry height="40" width="120" x="80" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl2" parent="1" style="text;html=1;fontStyle=1;align=left;verticalAlign=middle;fontColor=#000000;" value="Screen 2: Register for Workshop" vertex="1">
+          <mxGeometry height="30" width="360" x="480" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="s2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="460" width="360" x="480" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="s2h" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontStyle=1;" value="College Workshop Registration" vertex="1">
+          <mxGeometry height="50" width="360" x="480" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s2t" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontSize=16;fontStyle=1;fontColor=#000000;" value="Register for Workshop" vertex="1">
+          <mxGeometry height="30" width="320" x="500" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="sel" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="75" width="320" x="500" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="selL" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontColor=#000000;" value="Selected Workshop:" vertex="1">
+          <mxGeometry height="22" width="290" x="515" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="selV" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontStyle=1;fontColor=#000000;" value="W101 – Study Skills" vertex="1">
+          <mxGeometry height="28" width="290" x="515" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="idL" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontColor=#000000;" value="Student ID" vertex="1">
+          <mxGeometry height="22" width="320" x="500" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="idF" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;align=left;spacingLeft=10;fontStyle=2;" value="Enter Student ID" vertex="1">
+          <mxGeometry height="40" width="320" x="500" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="sub" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontStyle=1;" value="Submit Registration" vertex="1">
+          <mxGeometry height="44" width="200" x="500" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="0RgihG_i6zT-4soX3Rxm-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontStyle=1;" value="&lt;div&gt;Open question:&lt;/div&gt;&lt;div&gt;What should happen after submission?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="200" x="500" y="414" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="PygjoIe1oGEC0k2vL-nG">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="cJK5kJUNuB9eKFjb8yff-0" />
+        <mxCell id="cJK5kJUNuB9eKFjb8yff-1" parent="cJK5kJUNuB9eKFjb8yff-0" />
+        <mxCell id="cJK5kJUNuB9eKFjb8yff-12" parent="cJK5kJUNuB9eKFjb8yff-1" style="text;html=1;fontStyle=1;align=left;verticalAlign=middle;fontColor=#000000;" value="Screen 2: Register for Workshop" vertex="1">
+          <mxGeometry height="30" width="360" x="497" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="cJK5kJUNuB9eKFjb8yff-13" parent="cJK5kJUNuB9eKFjb8yff-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="460" width="360" x="500" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="cJK5kJUNuB9eKFjb8yff-14" parent="cJK5kJUNuB9eKFjb8yff-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontStyle=1;" value="College Workshop Registration" vertex="1">
+          <mxGeometry height="50" width="360" x="500" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="cJK5kJUNuB9eKFjb8yff-15" parent="cJK5kJUNuB9eKFjb8yff-1" style="text;html=1;align=left;verticalAlign=middle;fontSize=16;fontStyle=1;fontColor=#000000;" value="Register for Workshop" vertex="1">
+          <mxGeometry height="30" width="320" x="521" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="cJK5kJUNuB9eKFjb8yff-16" parent="cJK5kJUNuB9eKFjb8yff-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="75" width="320" x="529" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cJK5kJUNuB9eKFjb8yff-17" parent="cJK5kJUNuB9eKFjb8yff-1" style="text;html=1;align=left;verticalAlign=middle;fontColor=#000000;" value="Selected Workshop:" vertex="1">
+          <mxGeometry height="22" width="290" x="530" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="cJK5kJUNuB9eKFjb8yff-18" parent="cJK5kJUNuB9eKFjb8yff-1" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontStyle=1;fontColor=#000000;" value="W101 – Study Skills" vertex="1">
+          <mxGeometry height="28" width="290" x="576" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cJK5kJUNuB9eKFjb8yff-19" parent="cJK5kJUNuB9eKFjb8yff-1" style="text;html=1;align=left;verticalAlign=middle;fontColor=#000000;" value="Student ID" vertex="1">
+          <mxGeometry height="22" width="320" x="542" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="cJK5kJUNuB9eKFjb8yff-20" parent="cJK5kJUNuB9eKFjb8yff-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;align=left;spacingLeft=10;fontStyle=2;" value="Enter Student ID" vertex="1">
+          <mxGeometry height="40" width="320" x="532" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="cJK5kJUNuB9eKFjb8yff-21" parent="cJK5kJUNuB9eKFjb8yff-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontStyle=1;" value="Submit Registration" vertex="1">
+          <mxGeometry height="44" width="200" x="548" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="cJK5kJUNuB9eKFjb8yff-22" parent="cJK5kJUNuB9eKFjb8yff-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;fontStyle=1;" value="&lt;div&gt;Open question:&lt;/div&gt;&lt;div&gt;What should happen after submission?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="200" x="550" y="414" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
