@@ -1,1 +1,27 @@
+# Project Prototype Plan – Student Support Appointments
 
+## Selected User Journey
+
+**Actor:** Student.
+
+**Goal:** A student wants to find a suitable support service and request an appointment.
+
+## Proposed Screens
+
+1. **Browse Support Services** – View the available student support services.
+2. **Service Details** – View information about the selected support service.
+3. **Check Appointment Availability** – Explore available appointment times. Exact availability rules need confirmation.
+4. **Request an Appointment** – Enter the information needed to request an appointment.
+5. **Review Appointment Request** – Check the request details before submitting.
+6. **Request Submitted** – Show that the request has been submitted. The confirmation process needs clarification.
+
+## Open Questions
+
+- How is appointment availability displayed?
+- Can students choose a specific staff member?
+- Can students cancel or change an appointment?
+- Does submitting a request confirm the appointment or require staff approval?
+
+## Purpose
+
+The prototype will explore the student appointment-request journey, identify missing information and help review the usability of the proposed system.
